@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alberlast
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate if needed but I'm not that good
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
